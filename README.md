@@ -44,3 +44,14 @@ To run the project locally, follow these steps:
 2. Follow the instructions and comments within each notebook to understand the analysis, preprocessing, modeling, and evaluation processes.
 3. Experiment with different techniques and parameters to improve model performance and gain insights from the data.
 
+## ***Conclusion and Insights of This project :***
+
+* The accuracy, precision, and recall scores suggest that the models perform moderately well in predicting the ratings of airline reviews.
+
+* The similarity in performance between SVM and Random Forest models using both Bag of n-grams and TF-IDF representations indicates that the choice of text representation technique has a limited impact on model performance in this case. So from statsical result show that ***SVM is better***
+* SVM and Random Forest models using Bag of n-grams and TF-IDF representations achieved accuracy scores ranging from approximately **0.5725 to 0.6205**.
+
+## ***Further Analysis:***
+
+1. It would be beneficial to compare these performance metrics with a baseline model or other benchmark results to assess whether the models provide significant improvements.
+

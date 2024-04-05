@@ -27,7 +27,7 @@ To run the project locally, follow these steps:
 
 1. Clone this repository to your local machine:
    ```
-   git clone https://github.com/your_username/airlines-reviews-prediction.git
+   git clone https://github.com/Geo-y20/Airlines-Reviews-Prediction-Project.git
    ```
 
 
